@@ -1,4 +1,4 @@
-# Store Inventory Demand Analysis & Optimization
+# Retail-Inventory-Demand-Forecasting-Optimization
 
 Welcome to the **Store Inventory Demand Analysis & Optimization** project on GitHub. This project is designed to optimize store inventory management by leveraging data-driven insights and advanced forecasting techniques. It integrates data analytics, statistical modeling, and optimization strategies to enhance efficiency, reduce costs, and ensure optimal stock availability of essential supplies in healthcare institutions.
 
@@ -13,8 +13,6 @@ Welcome to the **Store Inventory Demand Analysis & Optimization** project on Git
 - Optimized product demand forecasting with time series models like ARIMA, Holt-Winters, VECM, and Random Forest, achieving a MAPE under 10% and significantly reducing product shortages.
 - Developed an Excel-based inventory report and automated stock notifications using SQL, enhancing operational efficiency.
 - Created a Power BI dashboard to track sales performance, resulting in a 30% reduction in lost sales and enhanced sales tracking capabilities.
-
-![image](https://github.com/mukul-bhele/inventoryoptimization/blob/a4bda0fed3e0286c622b06a977f45e524fd2ec90/Medical%20Inventory%20Optimization%20(Image).jpeg)
 
 ## Table of Contents
 1. [Technical Overview](#technical-overview)
@@ -149,11 +147,7 @@ Looking ahead, the following areas present exciting opportunities for project en
 ### 3. Machine Learning for Bounce Rate Reduction
 - Using machine learning models to predict and reduce high bounce rates in pharmacies by optimizing store layouts, reducing returns, and enhancing customer experience.
 
-## License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
 ---
 
-Thank you for exploring the **Store Inventory Demand Analysis & Optimization** project on GitHub. Your contributions, feedback, and collaboration are highly valued. If you have any questions or would like to get involved, please reach out to me.
+Thank you for exploring the **Retail-Inventory-Demand-Forecasting-Optimization** project on GitHub. Your contributions, feedback, and collaboration are highly valued. If you have any questions or would like to get involved, please reach out to me.
 
